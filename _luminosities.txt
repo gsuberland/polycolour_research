@@ -1,0 +1,14 @@
+royal_blue: 27.2
+blue: 16.5
+cyan: 32
+green: 65.5
+pc_lime: 98
+pc_mint: 93
+amber: 24.8
+pc_amber: 61
+red_orange: 29
+pc_red_orange: 30.2
+red: 25.2
+photo_red: 13.2
+far_red: 13.2
+pc_purple: 19.2

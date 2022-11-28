@@ -1,0 +1,14 @@
+royal_blue: Royal Blue
+blue: Blue
+cyan: Cyan
+green: Green
+pc_lime: PC Lime
+pc_mint: PC Mint
+amber: Amber
+pc_amber: PC Amber
+red_orange: Red-Orange
+pc_red_orange: PC Red-Orange
+red: Red
+photo_red: Photo Red
+far_red: Far Red
+pc_purple: PC Purple

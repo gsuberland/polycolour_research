@@ -1,0 +1,13 @@
+The colour LEDs are from the Cree J-series 2835 parts. Datasheet: https://assets.cree-led.com/a/ds/j/JSeries-2835-Color.pdf
+
+Each colour's *.txt file contains a normalised spectral distribution. Each line consists of a wavelength and its relative intensity.
+The wavelengths in the regular *.txt are raw extractions from the graphs and are not guaranteed to be aligned to any particular wavelength resolution or offset.
+The wavelengths in the *_interp.txt are interpolated wavelength and intensity values aligned to 1nm steps from 380nm to 780nm.
+
+_luminosities.txt contains luminosity values for each LED
+
+Royal Blue, Photo Red, Far Red, and PC Purple only list a radiometric power.
+the luminosities of the other LEDs are a pretty close match to radiometric calculations based on the test current, typical Vf, and LPW/WPE.
+as such, the luminosity of these LEDs (in lm) has been assumed to be their flux in mW divided by ten.
+
+_names.txt contains a map from the filename to the "friendly name" of each colour.
