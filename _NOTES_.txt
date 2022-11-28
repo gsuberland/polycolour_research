@@ -11,3 +11,8 @@ the luminosities of the other LEDs are a pretty close match to radiometric calcu
 as such, the luminosity of these LEDs (in lm) has been assumed to be their flux in mW divided by ten.
 
 _names.txt contains a map from the filename to the "friendly name" of each colour.
+
+Should avoid anti-primes: 500nm (cyan), 580nm (amber), 650nm (photo red)
+Probably worth not using the PC colours due to the wide spectral output
+
+that leaves: royal blue, blue, green, red-orange, red, far red
